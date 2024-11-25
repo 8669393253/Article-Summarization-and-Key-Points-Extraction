@@ -1,0 +1,5 @@
+spacy==3.5.0
+pytextrank==3.1.0
+newspaper3k==0.2.8
+transformers==4.35.0
+torch==2.1.0
